@@ -1,4 +1,3 @@
-
 class Person{                //superclass
     String name;
     int age;
@@ -33,7 +32,7 @@ public class methodOverriding2{
     }
 }
 
-//In Java, method overriding occurs when a subclass (child class) has the same method as the parent class.
+//Declaring a method in subclass which is already present in superclass is known as Method Overriding.
 //When a method in a subclass has the same name, return type, and parameters as a method in its superclass, 
 //the method in the subclass overrides the method in the superclass.
 

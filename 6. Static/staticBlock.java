@@ -17,3 +17,5 @@ public class staticBlock {
 }
 
 
+//static keyword is used for memory management
+//It makes the program more efficient by saving memory
