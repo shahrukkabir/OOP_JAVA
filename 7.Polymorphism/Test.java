@@ -8,6 +8,7 @@ class Person {
 
 class Teacher extends Person {
     
+    @Override
     void  display(){
         System.out.println("I am a Teacher");
     }
@@ -16,6 +17,7 @@ class Teacher extends Person {
 
 class Student extends Person{
 
+    @Override
     void  display(){
         System.out.println("I am a Student");
     }
@@ -44,3 +46,5 @@ public class Test {
 
     }
 }
+
+//Polymorphism allows objects of different classes to be treated as objects of a common super class.
