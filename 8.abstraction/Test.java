@@ -1,4 +1,4 @@
-// Interfaces in Java support multiple inheritance.
+// Interfaces support multiple inheritance.
 
 interface A {
     void play();
