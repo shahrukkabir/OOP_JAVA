@@ -46,3 +46,10 @@ public class Main {
         an.sleep();
     }
 }
+
+
+// Abstract Classes:
+
+// An abstract class cannot be instantiated directly.
+// It can contain abstract methods (methods without a body) that must be implemented by any non-abstract subclass.
+// It can also contain regular methods with a defined body, allowing a mix of abstract and non-abstract behaviors.
