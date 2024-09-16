@@ -15,7 +15,7 @@ class C implements A, B {
     }
     
     public void stop() {  // Implementing method from interface B
-        System.out.println("Stopping");
+        System.out.pri+ntln("Stopping");
     }
 }
 
