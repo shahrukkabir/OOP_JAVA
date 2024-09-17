@@ -42,7 +42,7 @@ public class Test {
         p = new Student();
         p.display();
 
-        //person is super class, we can reference variable of p.
+        //person is super class, we can create reference variable of p.
 
     }
 }
