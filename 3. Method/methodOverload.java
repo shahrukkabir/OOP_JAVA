@@ -20,7 +20,7 @@ public class methodOverload {
         methodOverload mo = new methodOverload();
 
         System.out.println(mo.add(2, 3));           // Calls add(int, int)
-        System.out.println(mo.add(2, 3, 4));      // Calls add(int, int, int)
+        System.out.println(mo.add(2, 3, 4));        // Calls add(int, int, int)
         System.out.println(mo.add(2.5, 3.5));       // Calls add(double, double)
     }
 }
